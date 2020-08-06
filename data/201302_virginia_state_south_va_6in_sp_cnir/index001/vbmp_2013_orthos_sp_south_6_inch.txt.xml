@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Geographic Information Network (VGIN)</origin>
+				<pubdate>20131031</pubdate>
+				<title Sync="TRUE">vbmp_2013_orthos_sp_south_6_inch.txt</title>
+				<edition>2013</edition>
+				<geoform>remote-sensing image</geoform>
+				<serinfo>
+					<sername>Virginia Base Map Program</sername>
+					<issue>2013</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Richmond, Virginia</pubplace>
+					<publish>Virginia Geographic Information Network (VGIN)</publish>
+				</pubinfo>
+				<onlink>http://www.vita.virginia.gov/isp/default.aspx?id=12118</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Virginia Geographic Information Network (VGIN)</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Virginia Base Map Program</title>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">vbmp_2013_orthos_sp_south_6_inch.txt</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>In the spring of 2013, the Commonwealth of Virginia, through the Virginia Geographic Information Network Division (herein referred to as VGIN) of the Virginia Information Technologies Agency (VITA) contracted with the Sanborn Map Company to provide aerial data acquisition, ground control, aerial triangulation and development of statewide DTM and digital orthophotography data. The Virginia Base Mapping Program (VBMP) update project is divided into two collection phases: the Eastern half was collected in Spring 2013 and the Western half will be collected in Spring 2015. Ortho products are 1-foot resolution statewide ortho-imagery with upgrades to 6-inch resolution tiles and 3-inch resolution tiles in various regions within the project area.  All data acquired in 2013 is jurisdiction based and is in the eastern half of the state.  The Virginia Base Mapping project encompasses the entire land area of the Commonwealth of Virginia over 4 years. The State boundary is buffered by 1000'. Coastal areas of the State bordering the Atlantic Ocean or the Chesapeake Bay are buffered by 1000' or the extent of man-made features extending from shore.</abstract>
+			<purpose>The collection of aerial photography, update of the DTM surface and production of orthophotography was executed to capture the existing ground conditions at a specific point in time for the purpose of GIS analysis. Orthophotography along with DTM data typically provides an accurate base for digitally representing geographic features upon which a GIS is built. The Virginia Geographic Information Network Division (VGIN) is the lead public agency in the Commonwealth for spatial data and GIS. VGIN's mission is to facilitate the cost-effective development and use of spatial data, GIS, and related technologies in organizations throughout the Commonwealth.</purpose>
+			<supplinf>The entire State was initially designed to support 1-foot resolution statewide ortho-imagery at 1"= 200' (1:2400) scale mapping. Jurisdictions throughout the State were provided an option to upgrade to 6-inch resolution tiles and 3-inch resolution at 1"=100' (1:1200) map scale. All digital ortho-imagery and development processes for the VBMP shall conform to the ASPRS Draft Aerial Photography Standards (1995) and Model Virginia Map Accuracy Standards (1992), which generally follow the ASPRS Accuracy Standard for Large-Scale Mapping (1990) for all imagery at the scales indicated except for the changes specified in this document. Accuracy will be tested and reported according to NSSDA Geospatial Positioning Accuracy Standards Part 3: National Standard for Spatial Data Accuracy Class 1.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>20130214</begdate>
+					<enddate>20130419</enddate>
+				</rngdates>
+				<sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-78.735966</westbc>
+				<eastbc>-76.380958</eastbc>
+				<northbc>38.198584</northbc>
+				<southbc>37.095134</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>orthophotography</themekey>
+				<themekey>imagery</themekey>
+				<themekey>raster</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Virginia</placekey>
+				<placekey>Commonwealth of Virginia</placekey>
+				<placekey>USA</placekey>
+			</place>
+		</keywords>
+		<accconst>Contact VGIN for information about regional and statewide VBMP datasets.  For information about local datasets, contact the appropriate locality.</accconst>
+		<useconst>This VBMP data has been developed using procedures designed to produce data to comply with the Model Virginia Map Accuracy Standards (1992) and is intended for use at 1" = 100' or 1" = 200' scale. Pursuant to Section 54.1-402, paragraph C of the Code of Virginia, which is quoted below, this data may not be used for purposes listed in said paragraph C, since the data was not created, nor is it maintained under the supervision of a licensed land surveyor. C. Persons utilizing photogrammetric methods or similar remote sensing technology shall not be required to be licensed as a land surveyor pursuant to subsection B of § 54.1-404 or 54.1-406 to: (i) determine topography or contours, or to depict physical improvements, provided such maps or other documents shall not be used for the design, modification, or construction of improvements to real property or for flood plain determination, or (ii) graphically show existing property lines and boundaries on maps or other documents provided such depicted property lines and boundaries shall only be used for general information. Any determination of topography or contours, or depiction of physical improvements, utilizing photogrammetric methods or similar remote sensing technology by persons not licensed as a land surveyor pursuant to § 54.1-406 shall not show any property monumentation or property metes and bounds, nor provide any measurement showing the relationship of any physical improvements to any property line or boundary. Any person not licensed pursuant to subsection B of § 54.1-404 or 54.1-406 preparing documentation pursuant to subsection C of § 54.1-402 shall note the following on such documentation: "Any determination of topography or contours, or any depiction of physical improvements, property lines or boundaries is for general information only and shall not be used for the design, modification, or construction of improvements to real property or for flood plain determination.”  It is requested that the Commonwealth of Virginia be cited for any use of the orthophotography as follows:  "Imagery Courtesy of the Commonwealth of Virginia".</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Wendy Stout</cntper>
+					<cntorg>VGIN</cntorg>
+				</cntperp>
+				<cntpos>VBMP Project Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>11751 Meadowville Lane</address>
+					<city>Chester</city>
+					<state>VA</state>
+					<postal>23836</postal>
+				</cntaddr>
+				<cntvoice>804-416-6209</cntvoice>
+				<cntfax></cntfax>
+				<cntemail>wendy.stout@vita.virginia.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3000</native>
+		<natvform Sync="TRUE">Text File</natvform></idinfo>
+	<dataqual>
+		<logic>All image tiles have been checked for proper spatial reference and conformance to the revised quality acceptance criteria adopted in the Commonwealth of Virginia Digital Orthoimagery and Digital Terrain Model Production Services Contract (Contract# VA-121207-SANB)</logic>
+		<complete>This dataset includes a total of approximately 3799 total images in the Virginia South State Plane Zone for 1' = 100'  scale imagery. The following jurisdictions were upgraded to 6-inch resolution at 1"=100' mapping scale for 2013: Farmville, Hopewell, the city of Richmond, the Charlottesville area of Albemarle County, and York, Kent and James Counties.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>These data were complied to meet the Commonwealth of Virginia Standard for Class 1 Map Accuracy as of September 30, 2013.   For the 1"=100' scale: RMSEx  &lt;= 1.0 feet, RMSEy  &lt;= 1.0 feet,  RMSEr &lt;= 1.42 feet, Accuracy r &lt;= 2.45 ft at the 95% confidence level.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>The digital aerial imagery for the 6-foot resolution orthophotography was collected at an average flying height of 4700 feet above sea level with a DMC camera. The Ground control used to support the orthophotographic mapping was collected by either paneling of permanent monuments or photographic identification of strategic points. The coordinates were collected via ground survey techniques. Z/I ISAT software was utilized for the aerial triangulation phase, using high accuracy softcopy stereo plotters. A photogrammetric project was created, adding camera data, photo data, ground control point data and exterior orientation data. An interior orientation was performed for the project photos, automatic pass and tie measurements were executed and finalized with manual measurement of surveyed ground control. The final bundle adjustment was executed using Photo Triangulation (PhotoT) software. The 1-foot resolution or 1"=200' map data was segmented into 5,000' X 5,000' tiles and named according to the naming convention established and provide by VGIN.  The DTM data was updated where necessary through photogrammetric stereo-compilation to North American Datum 1983; Virginia State Plane North or South Zone as applicable. Existing 2009 DTM was updated where necessary and densified to a point spacing sufficient for producing orthos at the specified GSD.  The DTM was updated using high accuracy stereo plotters and traditional manual photogrammetric techniques for collection of the breaklines and masspoints and delivered as Microstation v8 files. Utilizing the raw images from DMC camera, DTM data, and digital aerial triangulation resulted in the creation of 4-band (RGB,CIR) digital orthoimagery. The geometric accuracy of the digital orthoimagery within each state plane coordinate zone will meet the Virginia Base Mapping standards for 1"=100' and 1"=200' scale mapping and reported according to the NSSDA standard at 95% confidence level Creation of 4-band (RGB,CIR) digital orthoimagery.  The digital aerial imagery was rectified using the best algorithm, radiometrically balanced to produce digital imagery of nominally consistent tone and contrast and mosaiced to create a seamless orthophotography of the entire project area. The data was tiled and complete tiles were delivered as GeoTIFF with supplementary TFW files, as well as compressed MRSID files. The JPG200 files were compressed at a ratio of 20:1. Upon statewide acceptance of the DTM and Orthophotography the data is bundled and redelivered by jurisdiction.</procdesc>
+				<procdate>201302</procdate>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Users\dhoshijo\AppData\Local\Temp\xmlED21.tmp</srcused><procdate Sync="TRUE">20130926</procdate><proctime Sync="TRUE">12122300</proctime></procstep></lineage>
+		<cloud>0</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct>Raster</direct>
+		<rastinfo>
+			<rasttype>Pixel</rasttype>
+			<rowcount>5000</rowcount>
+			<colcount>5000</colcount>
+		</rastinfo>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Lambert Conformal Conic</mapprojn>
+					<lambertc>
+						<stdparll>36.766667</stdparll>
+						<stdparll>37.966667</stdparll>
+						<longcm>-78.500000</longcm>
+						<latprjo>36.333333</latprjo>
+						<feast>11482916.666667</feast>
+						<fnorth>3280833.333333</fnorth>
+					</lambertc>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983 HARN</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Band 1 Red</enttypl>
+				<enttypd>Red Band - 590-675 nm</enttypd>
+				<enttypds>DMC Camera Specification</enttypds>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>Band 2 Green</enttypl>
+				<enttypd>Green Band 500-650 nm</enttypd>
+				<enttypds>DMC Camera Specification</enttypds>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>Band 3 Blue</enttypl>
+				<enttypd>Blue Band 400-580 nm</enttypd>
+				<enttypds>DMC Camera Specification</enttypds>
+			</enttyp>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>Band 4 NIR</enttypl>
+				<enttypd>NIR Band 675-800 nm</enttypd>
+				<enttypds>DMC Camera Specification</enttypds>
+			</enttyp>
+		</detailed>
+		<overview>
+			<eaover>Reflectance values for visible and near infra-red light caputured by the Z/I Imaging Digital Mapping Camera (DMC) and expressed as four-band orthorectified imagery.</eaover>
+			<eadetcit>Detailed specifications and acceptance criteria can be found in the Commonwealth of Virginia Digital Orthoimagery and Digital Terrain Model Production Serviices Contract (Contract# VA-121207-SANB)</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>VGIN Coordinator</cntper>
+					<cntorg>Virginia Geographic Information Network</cntorg>
+				</cntperp>
+				<cntpos>VGIN Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>11751 Meadowville Lane</address>
+					<city>Chester</city>
+					<state>VA</state>
+					<postal>23836</postal>
+				</cntaddr>
+				<cntvoice>804-416-6198</cntvoice>
+				<cntemail>vbmp@vgin.virginia.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>ALL DATA IS PROVIDED "AS IS."  The Commonwealth of Virginia, the Virginia Geographic Information Network and their respective, officers, agents and employees jointly and severally disclaim any and all representations or warranties, express or implied, written or oral, in fact or arising by operation of law, including any warranties of merchantability, fitness for a particular purpose, ACCURACY, CURRENCY, commercial value, or freedom of data from infringement of any THIRD PARTY intellectual property rights. Pursuant to Section 54.1-402, paragraph C of the Code of Virginia, which is quoted below, this data may not be used for purposes listed in said paragraph C, since the data was not created, nor is it maintained under the supervision of a licensed land surveyor. C. Persons utilizing photogrammetric methods or similar remote sensing technology shall not be required to be licensed as a land surveyor pursuant to subsection B of § 54.1-404 or 54.1-406 to: (i) determine topography or contours, or to depict physical improvements, provided such maps or other documents shall not be used for the design, modification, or construction of improvements to real property or for flood plain determination, or (ii) graphically show existing property lines and boundaries on maps or other documents provided such depicted property lines and boundaries shall only be used for general information. Any determination of topography or contours, or depiction of physical improvements, utilizing photogrammetric methods or similar remote sensing technology by persons not licensed as a land surveyor pursuant to § 54.1-406 shall not show any property monumentation or property metes and bounds, nor provide any measurement showing the relationship of any physical improvements to any property line or boundary. Any person not licensed pursuant to subsection B of § 54.1-404 or 54.1-406 preparing documentation pursuant to subsection C of § 54.1-402 shall note the following on such documentation: "Any determination of topography or contours, or any depiction of physical improvements, property lines or boundaries is for general information only and shall not be used for the design, modification, or construction of improvements to real property or for flood plain determination.”</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>TIFF</formname>
+					<filedec>no compression applied</filedec>
+					<transize>95.37</transize>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>External drive</offmedia>
+						<recfmt>NTFS</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>variable</fees>
+		</stdorder>
+		<custom>Contact VGIN for ordering information.</custom>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20130926</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Geographic Information Network</cntorg>
+					<cntper>Wendy Stout</cntper>
+				</cntorgp>
+				<cntpos>VBMP Project Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>11751 Meadowville Lane</address>
+					<city>Chester</city>
+					<state>VA</state>
+					<postal>23836</postal>
+				</cntaddr>
+				<cntvoice>804-416-6209</cntvoice>
+				<cntfax></cntfax>
+				<cntemail>wendy.stout@vita.virginia.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{CE3534B4-996F-4D7C-AEBE-38CBC616717E}</MetaID><CreaDate>20130926</CreaDate><CreaTime>12122300</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20130926</SyncDate><SyncTime>12122300</SyncTime><ModDate>20130926</ModDate><ModTime>12122300</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">vbmp_2013_orthos_sp_south_6_inch.txt</resTitle><presForm><PresFormCd Sync="TRUE" value="001"></PresFormCd></presForm></idCitation></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">Text File</formatName></distorFormat></distributor></distInfo><mdDateSt Sync="TRUE">20130926</mdDateSt></metadata>
